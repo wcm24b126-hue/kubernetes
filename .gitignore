@@ -1,0 +1,8 @@
+# generated artifacts
+*.zip
+erp-audit-*.txt
+
+# nested app build/runtime state (also covered by erp-users-app/.gitignore)
+erp-users-app/.env
+erp-users-app/.next/
+erp-users-app/node_modules/
